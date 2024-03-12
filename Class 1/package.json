@@ -1,0 +1,29 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "practicar node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tingui96/Node.git"
+  },
+  "keywords": [
+    "curso",
+    "practica"
+  ],
+  "author": "Yandy Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tingui96/Node/issues"
+  },
+  "homepage": "https://github.com/tingui96/Node#readme",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig" : {
+    "extends": "standard"
+  }
+}
